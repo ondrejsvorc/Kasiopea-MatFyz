@@ -1,6 +1,4 @@
-# KasiopeaMATFYZ
-
-## Významy souborů
+# Významy souborů
 
 ### in.txt ###
 * vstup programu
