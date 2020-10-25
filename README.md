@@ -1,6 +1,6 @@
 # KasiopeaMATFYZ
 
-Skript pro vytvoření složky s 8 podsložkami s textovým souborem, kam uživatel ukládá výstup na základě vstupního souboru, který si u každé úlohy nechává vygenerovat. 
+Skript pro vytvoření složky s 8 podsložkami 2 textovými soubory pro potřeby soutěže.
 
 ![](demo1.gif)
 
